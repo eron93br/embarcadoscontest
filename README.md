@@ -2,6 +2,8 @@
 
 ![alt tag](https://image.ibb.co/dp5ELv/img2.jpg)
 
+[Apoie no portal Embarcados!](https://contest.embarcados.com.br/projetos/avoid-agro-view-disease/)
+
 [Debian Guide for DragonBoard](http://builds.96boards.org/releases/dragonboard410c/linaro/debian/16.09/)
 
 biblioteca MRAA (libmraa): irá disponibilizar um meio de acessar pinos I/O em várias linguagens! 
