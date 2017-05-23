@@ -1,5 +1,7 @@
 # Embarcados Contest - Inventando o Futuro com DragonBoard 410C
 
+![alt tag](https://image.ibb.co/dp5ELv/img2.jpg)
+
 [Debian Guide for DragonBoard](http://builds.96boards.org/releases/dragonboard410c/linaro/debian/16.09/)
 
 biblioteca MRAA (libmraa): irá disponibilizar um meio de acessar pinos I/O em várias linguagens! 
